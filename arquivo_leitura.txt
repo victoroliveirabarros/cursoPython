@@ -1,0 +1,2 @@
+"leitura finalizada!!"
+ Esta é uma String!
